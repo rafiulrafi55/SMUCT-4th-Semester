@@ -2,148 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd96ef7b-47d8-4143-b912-7ef7a2048323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../AI/242061005_Simulated_Anneeling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Array/array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/Task9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/img/img01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Exam Practices/img/img02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/HTML_DOM/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/HTML_DOM/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/HTML_DOM/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Java_Script/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2200/Java_Script/scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Adj_list/adj_list.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Adj_matrix/adj_matrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Adj_matrix/tempCodeRunnerFile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Array Stack/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Array Stack/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Array Stack/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Array Stack/stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Edge_list/edge_list.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Fractional Knapsack/fractional_knapsack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Graph Traversal/BFS_Traversal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Graph Traversal/BFS_Traversal.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Graph Traversal/DFS_Traversal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Graph Traversal/DFS_Traversal.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Graph Traversal/Traversal.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Job Sequencing/job_sequencing.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Merge Sort/mergeSort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Practice/build/Debug/fractional_knapsack.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Practice/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Practice/fractional_knapsack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Practice/fractional_knapsack.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Quick Sort/quickSort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Recursion/Recursion.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Spanning Tree/Prim's_Algorithm.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Spanning Tree/build/Debug/Prim's_Algorithm.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Spanning Tree/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Time_Function/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Time_Function/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Time_Function/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Time_Function/time_function.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/Time_Function/time_function.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/User_define_function.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/User_define_function02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/User_define_function02.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/build/Debug/task01.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/task01.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2202/User Defined Function/task01.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSIT2204/2nd April.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Assignment/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Assignment/Task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Assignment/Task03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Bysection_Method/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Bysection_Method/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Bysection_Method/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Bysection_Method/Bysection_Method.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Bysection_Method/Bysection_Method.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/1by8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/3by8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/3by8.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/Weddles_rule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/Weddles_rule.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/build/Debug/Question01.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Exam/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Floating number rules.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Horners Method/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Horners Method/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Horners Method/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Horners Method/Horners_method.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Horners Method/build/Debug/Horners_method.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Horners Method/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Interpolation/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Interpolation/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Interpolation/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Interpolation/backward_interpolation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Interpolation/forward_interpolation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/One_Point_Iteration_Method and Newton Raphson Method/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/One_Point_Iteration_Method and Newton Raphson Method/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/One_Point_Iteration_Method and Newton Raphson Method/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/One_Point_Iteration_Method and Newton Raphson Method/One_Point_Iteration_Method.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/One_Point_Iteration_Method and Newton Raphson Method/build/Debug/One_Point_Iteration_Method.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/One_Point_Iteration_Method and Newton Raphson Method/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/1by8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/1by8.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/3by8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Practice/3by8.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/Regular_Falsi_Method.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/build/Debug/Regular_Falsi_Method.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Regular_Falsi_Method/build/Debug/outDebug.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Secant Method/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Secant Method/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Secant Method/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Secant Method/Secant_Method.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/1by8_rule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/1by8_rule.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/3by8_rule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/3by8_rule.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/Trapezoidal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/Weddles_rule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Simpsons Rules/Weddles_rule.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Types_of_Error/Approximate_relative_percentage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Types_of_Error/RoundOfError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MAT2208/Types_of_Error/TruncationError.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/CSIT/4th Semester/CSIT2208/SQL_Conn" value="3FkvXECMUiMFojakc9V7PBGui5o" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3FkvXECMUiMFojakc9V7PBGui5o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -152,7 +37,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.lider.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/CSIT/4th Semester/CSIT2208/SQL_Conn"
@@ -205,7 +93,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

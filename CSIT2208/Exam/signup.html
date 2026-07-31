@@ -1,0 +1,91 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="signup-container">
+        <div class="tab-header">
+            <button class="tab-button active" onclick="openTab(event, 'student')">Student Signup</button>
+            <button class="tab-button" onclick="openTab(event, 'teacher')">Teacher Signup</button>
+        </div>
+
+        <div id="student" class="tab-content">
+            <h2>Student Signup</h2>
+            <form action="signup_process.php" method="POST">
+                <input type="hidden" name="form_type" value="student_signup">
+                <div class="form-group">
+                    <label for="student-name">Full Name:</label>
+                    <input type="text" id="student-name" name="student-name" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-email">Email:</label>
+                    <input type="email" id="student-email" name="student-email" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-id">ID:</label>
+                    <input type="text" id="student-id" name="student-id" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-teacher">Assign Teacher:</label>
+                    <select id="student-teacher" name="student-teacher" required>
+                        <option value="" disabled selected>Select a Teacher</option>
+                        <!-- Teachers will be loaded here by JavaScript -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="student-password">Password:</label>
+                    <input type="password" id="student-password" name="student-password" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-confirm-password">Confirm Password:</label>
+                    <input type="password" id="student-confirm-password" name="student-confirm-password" required>
+                </div>
+                <button type="submit">Sign Up as Student</button>
+            </form>
+        </div>
+
+        <div id="teacher" class="tab-content" style="display:none;">
+            <h2>Teacher Signup</h2>
+            <form action="signup_process.php" method="POST">
+                <input type="hidden" name="form_type" value="teacher_signup">
+                <div class="form-group">
+                    <label for="teacher-name">Full Name:</label>
+                    <input type="text" id="teacher-name" name="teacher-name" required>
+                </div>
+                <div class="form-group">
+                    <label for="teacher-email">Email:</label>
+                    <input type="email" id="teacher-email" name="teacher-email" required>
+                </div>
+                <div class="form-group">
+                    <label for="teacher-id">ID:</label>
+                    <input type="text" id="teacher-id" name="teacher-id" required>
+                </div>
+                <div class="form-group">
+                    <label for="teacher-designation">Designation:</label>
+                    <select id="teacher-designation" name="teacher-designation" required>
+                        <option value="" disabled selected>Select your designation</option>
+                        <option value="lecturer">Lecturer</option>
+                        <option value="professor">Professor</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="teacher-password">Password:</label>
+                    <input type="password" id="teacher-password" name="teacher-password" required>
+                </div>
+                <div class="form-group">
+                    <label for="teacher-confirm-password">Confirm Password:</label>
+                    <input type="password" id="teacher-confirm-password" name="teacher-confirm-password" required>
+                </div>
+                <button type="submit">Sign Up as Teacher</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

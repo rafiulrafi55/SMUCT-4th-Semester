@@ -1,5 +1,3 @@
-from genericpath import exists
-
 import mysql.connector 
 
 conn = mysql.connector.connect(
